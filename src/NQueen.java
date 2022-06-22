@@ -5,7 +5,7 @@ public class NQueen {
 
     }
     public static boolean nQueen(int board [][],int row){
-        if(row==N)return true
 
+            return true;
     }
 }
