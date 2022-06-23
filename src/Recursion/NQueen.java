@@ -1,3 +1,5 @@
+package Recursion;
+
 import java.io.IOException;
 
 public class NQueen {

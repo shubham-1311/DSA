@@ -1,3 +1,5 @@
+package Recursion;
+
 import java.io.IOException;
 import java.sql.SQLOutput;
 
@@ -18,7 +20,7 @@ public class Backtracking {
         *       'ABC' was there so remove A and call recusive function on 'BC'
         * then remove B and call for C.
         *
-        * Backtracking part is
+        * Recursion.Backtracking part is
         * */
         for(int i =0;i<str.length();i++){
             char currentChar=str.charAt(i);
