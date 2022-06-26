@@ -1,10 +1,5 @@
-package Recursion;
-
-import java.io.IOException;
-import java.sql.SQLOutput;
-
 public class Backtracking {
-    public static void main(String[] args )throws IOException{
+    public static void main(String[] args ) {
          String str="ABC";
          printPermutation(str,"",2);
 
@@ -16,11 +11,12 @@ public class Backtracking {
             System.out.println(perm);
         }
         /*
-        *   choose each character of the string, then remove it from the string and call recursive function on the remaining string
-        *       'ABC' was there so remove A and call recusive function on 'BC'
-        * then remove B and call for C.
+        *  choose each character of the string, then remove it from the string and
+        *  call recursive function on the remaining string
+        *  'ABC' was there so remove A and call recursive function on 'BC'
+        *  then remove B and call for C.
         *
-        * Recursion.Backtracking part is
+        * Backtracking part is
         * */
         for(int i =0;i<str.length();i++){
             char currentChar=str.charAt(i);

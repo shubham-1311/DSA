@@ -4,15 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92ded677-4d62-4d33-9e67-566991a6ba2e" name="Changes" comment="Lappy Repaired">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SortArray021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Practice.java" afterDir="false" />
+    <list default="true" id="92ded677-4d62-4d33-9e67-566991a6ba2e" name="Changes" comment="26/6">
+      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/SortArray021.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/SortArray021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/SubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/SubArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/Backtracking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/NQueen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/NQueen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/Sudoku.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,11 +52,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "18",
     "last_opened_file_path": "C:/Users/DELL/Documents/GitHub/DSA",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.editor"
   },
@@ -50,33 +68,33 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SortArray021">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="DSE" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\GitHub\DSA\src" />
+      <recent name="C:\Users\DELL\Documents\GitHub\DSA" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Backtracking">
+    <configuration name="Backtracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking" />
+      <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Main" />
-      <module name="DSE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Practice" />
-      <module name="DSE" />
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="Recursion" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="SortArray021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SortArray021" />
-      <module name="DSE" />
+      <option name="MAIN_CLASS_NAME" value="SortArray021" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="SubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SubarraySum" />
-      <module name="DSE" />
+      <option name="MAIN_CLASS_NAME" value="SubarraySum" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Backtracking" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.SortArray021" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.SubarraySum" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Recursion.Practice" />
+        <item itemvalue="Application.Arrays.SubarraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655996058761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="26/6">
+      <created>1656223469116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656223469116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,9 +183,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First  Commit and Push operation" />
     <MESSAGE value="Lappy Repaired" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lappy Repaired" />
+    <MESSAGE value="26/6" />
+    <option name="LAST_COMMIT_MESSAGE" value="26/6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,5 +1,3 @@
-package Recursion;
-
 import java.sql.SQLOutput;
 
 public class Power {

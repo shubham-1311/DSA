@@ -1,5 +1,3 @@
-package Recursion;
-
 public class Practice {
 
     public static int sumArray(int[] nums,int n){

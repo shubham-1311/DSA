@@ -1,6 +1,4 @@
-package Arrays;
-
-    class SubarraySum {
+class SubarraySum {
         /* Returns true if the there is
     a subarray of arr[] with sum equal to
            'sum' otherwise returns false.

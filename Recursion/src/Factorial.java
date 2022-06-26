@@ -1,5 +1,3 @@
-package Recursion;
-
 public class Factorial {
     //Recursive method to return factrial of a number
     static long factorial(int n){
