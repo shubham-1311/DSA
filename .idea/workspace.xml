@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92ded677-4d62-4d33-9e67-566991a6ba2e" name="Changes" comment="Rearrangement">
-      <change afterPath="$PROJECT_DIR$/Recursion/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/src/ReverseArray.java" afterDir="false" />
+    <list default="true" id="92ded677-4d62-4d33-9e67-566991a6ba2e" name="Changes" comment="palindrome and ReverseArray">
+      <change afterPath="$PROJECT_DIR$/Arrays/src/GoogleInputSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/MinimuMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/src/ChangeBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/src/NonRepeatingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP/CP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP/src/NearlyGoodNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP/src/PolycarpAndCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP/src/SameDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Mathematics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/src/PatternPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,80 +52,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/DELL/Documents/GitHub/DSA",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Documents/GitHub/DSA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\GitHub\DSA\Arrays\src" />
       <recent name="C:\Users\DELL\Documents\GitHub\DSA\src" />
       <recent name="C:\Users\DELL\Documents\GitHub\DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseArray">
-    <configuration name="Backtracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtracking" />
-      <module name="Recursion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.MinimuMaximum">
+    <configuration name="MinimuMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimuMaximum" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
-      <module name="Recursion" />
+    <configuration name="NearlyGoodNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NearlyGoodNumbers" />
+      <module name="CP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolycarpAndCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolycarpAndCoins" />
+      <module name="CP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseArray" />
-      <module name="Recursion" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArray021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortArray021" />
-      <module name="Arrays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="SameDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SameDifference" />
+      <module name="CP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimuMaximum" />
         <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Backtracking" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.SortArray021" />
+        <item itemvalue="Application.SameDifference" />
+        <item itemvalue="Application.NearlyGoodNumbers" />
+        <item itemvalue="Application.PolycarpAndCoins" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656253867120</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="palindrome and ReverseArray">
+      <created>1656258979364</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656258979364</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +188,18 @@
     <MESSAGE value="Lappy Repaired" />
     <MESSAGE value="26/6" />
     <MESSAGE value="Rearrangement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rearrangement" />
+    <MESSAGE value="palindrome and ReverseArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="palindrome and ReverseArray" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
