@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92ded677-4d62-4d33-9e67-566991a6ba2e" name="Changes" comment="palindrome and ReverseArray">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/GoogleInputSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/MinimuMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/src/ChangeBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/src/NonRepeatingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP/CP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP/src/NearlyGoodNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP/src/PolycarpAndCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP/src/SameDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Mathematics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/src/PatternPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="92ded677-4d62-4d33-9e67-566991a6ba2e" name="Changes" comment="multiple things">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/MinimuMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/MinimuMaximum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656258979364</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="multiple things">
+      <created>1656510599073</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656510599073</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +181,8 @@
     <MESSAGE value="26/6" />
     <MESSAGE value="Rearrangement" />
     <MESSAGE value="palindrome and ReverseArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrome and ReverseArray" />
+    <MESSAGE value="multiple things" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiple things" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
