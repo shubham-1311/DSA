@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ded677-4d62-4d33-9e67-566991a6ba2e" name="Changes" comment="multiple things">
+      <change afterPath="$PROJECT_DIR$/Arrays/src/KthSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/src/QuickSortImplementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/MinimuMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/MinimuMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/MinimuMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/MinimumMaximum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,24 +65,31 @@
       <recent name="C:\Users\DELL\Documents\GitHub\DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinimuMaximum">
-    <configuration name="MinimuMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimuMaximum" />
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="TestNG" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.KthSmallestElement">
+    <configuration name="KthSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthSmallestElement" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NearlyGoodNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NearlyGoodNumbers" />
-      <module name="CP" />
+    <configuration name="MinimumMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumMaximum" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolycarpAndCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PolycarpAndCoins" />
-      <module name="CP" />
+    <configuration name="QuickSortImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSortImplementation" />
+      <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinimuMaximum" />
+        <item itemvalue="Application.KthSmallestElement" />
+        <item itemvalue="Application.QuickSortImplementation" />
+        <item itemvalue="Application.MinimumMaximum" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.SameDifference" />
-        <item itemvalue="Application.NearlyGoodNumbers" />
-        <item itemvalue="Application.PolycarpAndCoins" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656510599073</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="multiple things">
+      <created>1656516888472</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656516888472</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

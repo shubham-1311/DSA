@@ -2,11 +2,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class MinimuMaximum {
+public class MinimumMaximum {
 
-    public static class Pair{
-        static int min;
-        static int max;
+     public static class Pair{
+         int min;
+         int max;
     }
     public static int[] minMax(int[] arr){
         int min=Integer.MAX_VALUE;
@@ -20,19 +20,21 @@ public class MinimuMaximum {
 
     //Recursive Method: Tournament Method
     public static Pair minMax(int []arr,int low,int high){
-        Pair m=new Pair();
-        Pair ml=new Pair();
-        Pair mr=new Pair();
+        Pair m= new Pair();
+        Pair ml;
+        Pair mr;
+
         int mid;
+        //when only one element is there
             if(low==high){
                 m.min=arr[low];
                 m.max=arr[low];
                 return m;
-
             }
-            if(low == high+1){
+            //when only two elements are there.
+            if(high == low+1){
                 m.max=arr[low];
-                m.min=arr[high-1];
+                m.min=arr[high];
                     if(m.max<m.min){
                         m.max=m.max^m.min;
                         m.min=m.max^m.min;
@@ -41,23 +43,17 @@ public class MinimuMaximum {
                 return m;
             }
 
-            else{
-                mid=(low+high)/2;
-                ml=minMax(arr,0,mid);
-                mr=minMax(arr,mid+1,high);
-            }
+            mid=(low+high)/2;
+            ml=minMax(arr,0,mid);
+            mr=minMax(arr,mid+1,high);
+
             //check for min
-            if(ml.min<mr.min) m.min=ml.min;
-            else m.min=mr.min;
+        m.min = Math.min(ml.min, mr.min);
 
             //check for max
-            if(ml.max>mr.max)m.max=ml.max;
-            else m.max=mr.max;
+        m.max = Math.max(ml.max, mr.max);
 
-        System.out.println(
-                "Min -->"+m.min+
-                        "\nMax -->"+m.max+"\n"+low+"\t"+high
-        );
+
 
             return m;
     }
@@ -78,7 +74,7 @@ public class MinimuMaximum {
         );
 
         //method 2
-        Pair m=minMax(nums,0,nums.length);
+        Pair m=minMax(nums,0,nums.length-1);
         System.out.println(
                 "Min -->"+m.min+
                         "\nMax -->"+m.max
